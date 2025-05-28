@@ -1,5 +1,6 @@
 ## Hi there 👋
-#### Gut
+### - I'm working on Cubesat shenanigans.
+### - Github noob🫡
 <!--ial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **erguthub/erguthub** is a ✨ _spec
