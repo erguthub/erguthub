@@ -1,5 +1,5 @@
 ## Hi there 👋
-## GUTTTT
+# Gut
 <!--ial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **erguthub/erguthub** is a ✨ _spec
